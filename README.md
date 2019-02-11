@@ -4,6 +4,7 @@ Problem Statement
 https://archive.ics.uci.edu/ml/machine-learning-databases/00222/
 
 Perform the below operations:
+
 a. Create a visual for representing missing values in the dataset.
 
 b. Show a distribution of clients based on a job.
