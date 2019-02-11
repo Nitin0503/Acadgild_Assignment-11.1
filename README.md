@@ -14,3 +14,5 @@ Status?
 
 d. Check whether is there any association between Job and
 Education?
+
+Answer provided as R Script
